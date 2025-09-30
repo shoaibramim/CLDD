@@ -2,7 +2,7 @@
 
 This repository contains the implementation and experiments conducted for the study **"Cotton Leaf Disease Detection and Classification Using Fine-tuned ResNet50 Architecture"**.  
 Several state-of-the-art deep learning architectures (ResNet50, MobileNetV3, and Xception) were fine-tuned and evaluated under different experimental settings.  
-Additionally, the best-performing model was compared against an existing study [Gurjot et al.](http://dx.doi.org/10.1002/fsn3.70658).
+Additionally, the best-performing model was compared against an existing study [Gurjot et al.](http://dx.doi.org/10.1002/fsn3.70658)
 
 ---
 
