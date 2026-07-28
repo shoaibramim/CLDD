@@ -11,7 +11,8 @@ Additionally, the best-performing model was compared against an existing study [
 The fine-tuned ResNet50 model has been deployed to HuggingFace for public access and testing.  
 An interactive Gradio-based interface is available where users can upload cotton leaf images and receive real-time disease classification predictions.
 
-**Try the model here:** [CLDD_ResNet50 on HuggingFace Space](https://huggingface.co/spaces/shoaibramim/CLDD_ResNet50)
+**Try the model here:** [Fine-tuned ResNet50 on HuggingFace Space](https://huggingface.co/spaces/shoaibramim/CLDD_ResNet50)
+** Check Classification Performance on Web:** [https://cottonguard.vercel.app/](https://cottonguard.vercel.app/)
 
 ---
 
