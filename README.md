@@ -13,7 +13,7 @@ An interactive Gradio-based interface is available where users can upload cotton
 
 **Try the model here:** [Fine-tuned ResNet50 on HuggingFace Space](https://huggingface.co/spaces/shoaibramim/CLDD_ResNet50)
 
-** Check Classification Performance on Web:** [https://cottonguard.vercel.app/](https://cottonguard.vercel.app/)
+**Check Classification Performance on Web:** [https://cottonguard.vercel.app/](https://cottonguard.vercel.app/)
 
 ---
 
